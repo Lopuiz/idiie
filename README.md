@@ -59,14 +59,14 @@ En este proyecto tienes libertad para elegir el contenido de tu aplicación web,
 técnicos básicos. La idea es que organices bien tu código y trabajes con herramientas que te ayudarán a desarrollar una
 aplicación funcional.
 
-Asegurate de:
-* ✅ Separar la presentación (interfaz) de la lógica de negocio.
-* ✅ Guardar los datos de forma permanente en una base de datos.
+Asegurate de: <br>
+:white_check_mark: Separar la presentación (interfaz) de la lógica de negocio. <br>
+:white_check_mark: Guardar los datos de forma permanente en una base de datos. <br>
 
-Herramientas:
-* 🔹 Python y [FastAPI](https://fastapi.tiangolo.com/) para la lógica de negocio.
-* 🔹 HTML, CSS y JavaScript para la interfaz de usuario.
-* 🔹 [sqlite3](https://docs.python.org/3/library/sqlite3.html) de Python para manejar la base de datos.
+Herramientas: <br>
+:green_circle: Python y [FastAPI](https://fastapi.tiangolo.com/) para la lógica de negocio. <br>
+:green_circle: HTML, CSS y JavaScript para la interfaz de usuario. <br>
+:green_circle: [sqlite3](https://docs.python.org/3/library/sqlite3.html) de Python para manejar la base de datos. <br>
 
 
 Recuerda que, además de cumplir con los requisitos técnicos, es importante seguir buenas prácticas de programación. Esto significa escribir código limpio, organizado y fácil de entender, usando nombres claros para las variables y evitando repetir el mismo código. También debes manejar los errores de manera adecuada y seguir las recomendaciones de estilo de Python y JavaScript. Si necesitas más información sobre cómo hacerlo, puedes consultar estos enlaces útiles:
